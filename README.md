@@ -1,1 +1,2 @@
 "# djisktras_algorithm" 
+In the input data, the first line tells the number of nodes, say n, followed by a text description of each of the 1 through n nodes, one description per line (50 chars max length).  After that, each line consists of 3 integers representing an edge. If there is an edge from node 1 to node 2 with a label of 10, the data is: 1 2 10.  If the first integer is zero, it means the end of the data for that one graph.
